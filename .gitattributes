@@ -1,0 +1,2 @@
+# pattern  filter=crypt diff=crypt
+infra/terraform.tfvars filter=crypt diff=crypt
